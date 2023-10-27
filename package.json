@@ -1,0 +1,14 @@
+{
+  "name": "datamorphix",
+  "version": "1.0.0",
+  "description": "DataMorphix is a powerful data transformation and optimization tool designed to streamline the way you work with data. Whether you're a data scientist, analyst, or developer, DataMorphix provides a wide range of features and capabilities to help you reshape, refine, and extract valuable insights from your data.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "array",
+    "helper"
+  ],
+  "author": "Kolya Nikolai Madridano",
+  "license": "ISC"
+}
