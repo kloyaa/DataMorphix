@@ -6,17 +6,7 @@ DataMorphix is a powerful data transformation and optimization tool designed to 
 
 ## Features
 
-- **Data Transformation:** Easily manipulate and transform data in various formats, making it suitable for your specific needs.
-
-- **Data Integration:** Seamlessly integrate and merge data from multiple sources into a unified format.
-
-- **Data Cleansing:** Identify and clean dirty or inconsistent data, ensuring the accuracy and reliability of your analyses.
-
-- **Data Enrichment:** Enhance your datasets with additional information, such as geospatial data or external APIs.
-
-- **Performance Optimization:** Optimize data processing for faster and more efficient analysis.
-
-- **Visualization:** Generate visualizations and reports directly from your transformed data.
+- **groupObjectsByKey:**  is a JavaScript function designed to efficiently group an array of objects based on a specified key and assign a custom group name to the resulting groups. It filters and organizes the objects, ensuring that each group contains objects with the same key. This function simplifies the process of aggregating and organizing data, making it a valuable tool for data manipulation and analysis tasks in JavaScript applications.
 
 ## Getting Started
 
