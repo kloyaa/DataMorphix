@@ -12,19 +12,16 @@ DataMorphix is a powerful data transformation and optimization tool designed to 
 
 ### Installation
 
-To get started with DataMorphix, follow these simple steps:
+To get started with DataMorphix in a Node.js or JavaScript project, follow these simple steps:
 
-1. Clone this repository to your local machine.
-2. Install the required dependencies using `pip install -r requirements.txt`.
-3. Run `datamorphix.py` to start the application.
+1. Clone this repository to your local machine or create a new directory for your project.
+2. Navigate to the project directory in your terminal.
 
-### Usage
+3. Initialize your Node.js project with a `package.json` file, if you haven't already, by running:
 
-DataMorphix provides both a user-friendly graphical interface and a command-line interface for your convenience. You can use the GUI for interactive data manipulation and the CLI for scripting and automation.
+   ```bash
+   npm init
 
-### Documentation
-
-For detailed information on using DataMorphix, check out our [documentation](https://datamorphixdocs.com).
 
 ## Contributing
 
