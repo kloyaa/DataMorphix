@@ -10,6 +10,8 @@ DataMorphix is a powerful data transformation and optimization tool designed to 
 
 - **removeObjectsByKeyValue:** takes an array of objects and removes those where a specified key has a specific value. It returns a filtered array containing only the objects that do not match the given key-value pair. The function achieves this by using the `Array.filter()` method, ensuring that the resulting array contains objects that do not have the specified key-value combination.
 
+- **sumObjectsByKey:** is a JavaScript function designed to calculate the total sum of values in an array of objects based on a specified key. This utility simplifies the process of aggregating and summarizing data by allowing users to easily extract the cumulative value of a specific property within a collection of objects.
+
 ## Contributing
 
 We welcome contributions from the community.
